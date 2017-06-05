@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="GPSies http://www.gpsies.com - 2017 Minsk Riga" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>2017 Minsk Riga</name>
+    <link href="http://www.gpsies.com/">
+      <text>2017 Minsk Riga on GPSies.com</text>
+    </link>
+    <time>2017-06-05T13:41:01Z</time>
+  </metadata>
+  <wpt lat="57.14956260" lon="24.86033250">
+    <ele>0.0000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="56.94828620" lon="24.11981820">
+    <ele>0.0000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="53.90290330" lon="27.55204800">
+    <ele>0.0000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="54.00875230" lon="27.28338720">
+    <ele>0.0000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="53.91617460" lon="27.53791010">
+    <ele>0.0000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="53.96089110" lon="27.65181269">
+    <ele>0.0000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+  <wpt lat="53.83108800" lon="27.37321800">
+    <ele>0.0000000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+</gpx>
+
